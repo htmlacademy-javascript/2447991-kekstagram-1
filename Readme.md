@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Oleg Baranov](https://up.htmlacademy.ru/javascript-individual/1/user/2447991).
-* Наставник: `Неизвестно`.
+* Наставник: [Виктория Никитина](https://htmlacademy.ru/profile/id1217273) .
 
 ---
 
